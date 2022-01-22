@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Steps to implement Swagger to a Spring boot application
 
 As this repository is based in the calls to an API a good practice is the integration of a tool, as swagger, to create the documentation needs to
@@ -104,3 +105,7 @@ If everything worked properly we have to be able of get something like so
 [running JSON server](https://stoic-quotes-app.herokuapp.com/).
 
 We have to make sure that in the resources section we can see our json file as endpoint.
+=======
+# SwaggerAPIdocumentation
+Simple Spring project to document the steps to implement Swagger in our application
+>>>>>>> e2d59b67b672d8f329407af6c929eee813ffa253
